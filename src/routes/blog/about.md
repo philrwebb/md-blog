@@ -5,7 +5,6 @@ title: First Post
 # {title}
 
 <script>
-    import Box from "./Box.svelte"
     let count = 10
 </script>
 
@@ -13,4 +12,3 @@ title: First Post
 
 <button on:click={() => count +=1}>click</button>
 
-<Box />
