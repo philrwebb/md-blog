@@ -1,4 +1,8 @@
-# About
+---
+title: First Post
+---
+
+# {title}
 
 <script>
     import Box from "./Box.svelte"
