@@ -1,19 +1,18 @@
 {
-	"name": "md-blog",
-	"version": "0.0.1",
-	"scripts": {
-		"dev": "svelte-kit dev",
-		"build": "svelte-kit build",
-		"preview": "svelte-kit preview"
-	},
-	"devDependencies": {
-		"@sveltejs/kit": "next",
-		"mdsvex": "^0.9.8",
-		"svelte": "^3.42.6"
-	},
-	"type": "module",
-	"dependencies": {
-		"@sveltejs/adapter-netlify": "^1.0.0-next.50",
-		"@sveltejs/adapter-node": "^1.0.0-next.71"
-	}
+  "name": "md-blog",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "svelte-kit dev",
+    "build": "svelte-kit build",
+    "preview": "svelte-kit preview"
+  },
+  "devDependencies": {
+    "@sveltejs/kit": "next",
+    "mdsvex": "^0.9.8",
+    "svelte": "^3.42.6"
+  },
+  "type": "module",
+  "dependencies": {
+    "@sveltejs/adapter-node": "^1.0.0-next.0"
+  }
 }
