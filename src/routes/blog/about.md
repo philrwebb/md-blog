@@ -1,5 +1,5 @@
 ---
-title: First Post
+title: About
 ---
 
 # {title}
@@ -10,5 +10,5 @@ title: First Post
 
 {count}
 
-<button on:click={() => count +=1}>click</button>
+<button on:click={() => count +=1}>Increment</button>
 
